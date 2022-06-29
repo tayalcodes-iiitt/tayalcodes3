@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809142845322",
+    "project_id": "signin-a1a83",
+    "storage_bucket": "signin-a1a83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809142845322:android:de089aba34e13ed9925273",
+        "android_client_info": {
+          "package_name": "com.example.flutter_apptesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809142845322-phu8328ps8gpttffipahgptgut009a3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6wFxoa8JbwJ5OqmDCTiE3FfhJYUg2ftU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809142845322-phu8328ps8gpttffipahgptgut009a3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
